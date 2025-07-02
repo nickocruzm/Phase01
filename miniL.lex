@@ -15,7 +15,6 @@ void change_line(){
 
 void change_column(int length){
    column += length;
-   printf("length: %d\n", length);
 }
 
 %}
